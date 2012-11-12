@@ -1,4 +1,4 @@
 Torrific
 ========
 
-Torrent Proxy
+Torrent Proxy [View / Download].
