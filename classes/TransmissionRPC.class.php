@@ -26,6 +26,8 @@
  * PHP Class support (PHP 5) (PHP 4 might work, untested)
  */
 
+/* @Khateeb : Try to find Python Lib, else there might be compatibility issues. */
+
 /**
  * A friendly little version check...
  */
